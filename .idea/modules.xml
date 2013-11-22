@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gts_callback_stub.iml" filepath="$PROJECT_DIR$/gts_callback_stub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gts_callback_stub-grailsPlugins.iml" filepath="$PROJECT_DIR$/gts_callback_stub-grailsPlugins.iml" />
+    </modules>
+  </component>
+</project>
+
